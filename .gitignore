@@ -1,0 +1,26 @@
+# Maven
+stlms/backend/target/
+stlms/backend/.mvn/wrapper/maven-wrapper.jar
+*.class
+*.jar
+*.war
+
+# Node
+stlms/frontend/node_modules/
+stlms/frontend/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
